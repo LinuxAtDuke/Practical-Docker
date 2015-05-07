@@ -20,8 +20,11 @@ You will need to bring a laptop with an SSH client installed to the class.
 Sometime before class, please do the following:
 
 1). Using a web browser, go to *https://vm-manage.oit.duke.edu*
+
 2). Login using your Duke NetId.
+
 3). Create a new project for this class.
+
 4). Select *Ubuntu 14 Basic* for the Server.
 
 The vm-manage web page will tell you the name for your VM. The web site will also tell you the initial username and password. You should connect via ssh.
