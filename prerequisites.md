@@ -45,13 +45,13 @@ Example:
 
     sudo apt-get update && sudo apt-get upgrade
 
-7). Install the latest version of Docker *From Docker.com*
+7). Install the latest version of Docker *from Docker.com*
 
 Example:
 
     wget -qO- https://get.docker.com/ | sh
 
-8). Install the latest version of Docker Compose *From Docker.com*
+8). Install the latest version of Docker Compose *from Docker.com*
 
 Example:
 
