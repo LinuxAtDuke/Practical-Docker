@@ -1,5 +1,5 @@
-Practical Docker
-================
+Practical Docker: Hands-on Management and Administration
+========================================================
 
 ### Class Prerequisites ###
 

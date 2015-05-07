@@ -3,9 +3,9 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iEYEABECAAYFAlVLYhwACgkQte6EFif3vzf4ugCgxrCMs+v4mRlHEnzZPCf1lr57
-PjkAn2Y1Yu5B3ykEDZpqR24knj4zFSVB
-=jeOY
+iEYEABECAAYFAlVLYpEACgkQte6EFif3vzdaxwCg81d+kgWB7XEaXaVPlZ4bDKyd
+/YkAn1Y42IIDfmAbyMWG3/M9gjk0+x/i
+=KXeG
 -----END PGP SIGNATURE-----
 
 ```
@@ -17,10 +17,10 @@ PjkAn2Y1Yu5B3ykEDZpqR24knj4zFSVB
 #### Expect
 
 ```
-size  exec  file               contents                                                        
-            ./                                                                                 
-6555          LICENSE          36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673
-2171          prerequisite.md  f0bf8dbbee4263a0474aad15a69db1d02da286d916f4e35f7c303e9d2daa9107
+size  exec  file                contents                                                        
+            ./                                                                                  
+6555          LICENSE           36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673
+2251          prerequisites.md  b4c9cefc805b04a20947e5fc6bc2e2b5024aa3a0496c1431f660d775deef9ead
 ```
 
 #### Ignore
